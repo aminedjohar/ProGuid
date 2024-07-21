@@ -44,7 +44,7 @@ const Home = () => {
     <div className="min-h-screen flex flex-col bg-gray-100 text-black">
       <header className="bg-orange-500 p-4 text-white">
         <div className="container mx-auto">
-          <h1 className="text-2xl font-bold">Tourist Guide Finder</h1>
+        <img src='images/logo.png' alt='logo' className="h-8 w-8" />
         </div>
       </header>
 
